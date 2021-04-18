@@ -42,5 +42,5 @@
 </table>
 
 ### Contact Info:<hr>
-#### Em: sunaal96@gmail.com<br>Ph: (+91) 9650441813<br>Connect with me on <a href="https://www.linkedin.com/in/sunaal-dua-090197bb">LinkedIn</a>
+#### Em: sunaal96@gmail.com<br>Ph: (+91) 9650441813
 
