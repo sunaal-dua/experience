@@ -1,6 +1,6 @@
 ### Greetings!
 #### In this repository you will find all my Machine Learning, NLP and Computer Vision workbooks. The table below summarizes what you can expect from these projects but before that a little something about me:<br>
-"<i>Python developer with 2.5 years of experience in programming. Currently active as an Analytics Consultant and Machine Learning Engineer who has worked across varied problem statements in varied domains. With a good analytical aptitude, I comprehensively work through the minute details. I embrace the in-depth working of the algorithms I am using and never hesitate to work out the math when required.<br>I aim for professional versatility with a great zeal and possess good communication and social skills with a penchant for presenting; written or verbal"</i><br>
+"<i>Python developer. Currently active as an Analytics Consultant and Machine Learning Engineer who has worked across varied problem statements in varied domains. With a good analytical aptitude, I comprehensively work through the minute details. I embrace the in-depth working of the algorithms I am using and never hesitate to work out the math when required.<br>I aim for professional versatility with a great zeal and possess good communication and social skills with a penchant for presenting; written or verbal"</i><br>
 <table style="width:100%">
   <tr>
     <td><b>Machine Learning</b></td>
@@ -42,5 +42,5 @@
 </table>
 
 ### Contact Info:<hr>
-#### Em: sunaal96@gmail.com<br>Ph: (+91) 9650441813<br>Connect with me on <a href="https://www.linkedin.com/in/sunaal-dua-090197bb/">Linkedin</a>
+#### Em: sunaal96@gmail.com<br>Ph: (+91) 9650441813<br>Connect with me on <a target='_blank',href="https://www.linkedin.com/in/sunaal-dua-090197bb/">Linkedin</a>
 
