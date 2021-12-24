@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2021.2">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="42" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IT Salary Survey EU 2018.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Timestamp" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv" type="V_String" />
+            <Field name="Age" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv" type="V_String" />
+            <Field name="Gender" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv" type="V_String" />
+            <Field name="City" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv" type="V_String" />
+            <Field name="Position" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv" type="V_String" />
+            <Field name="Years of experience" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv" type="V_String" />
+            <Field name="Your level" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv" type="V_String" />
+            <Field name="Current Salary" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv" type="V_String" />
+            <Field name="Salary one year ago" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv" type="V_String" />
+            <Field name="Salary two years ago" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv" type="V_String" />
+            <Field name="Are you getting any Stock Options?" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv" type="V_String" />
+            <Field name="Main language at work" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv" type="V_String" />
+            <Field name="Company size" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv" type="V_String" />
+            <Field name="Company type" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU 2018.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="174" y="42" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>T Salary Survey EU 2019.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Zeitstempel" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Age" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Gender" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="City" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Seniority level" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Position (without seniority)" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Years of experience" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Your main technology / programming language" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Yearly brutto salary (without bonus and stocks)" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Yearly bonus" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Yearly stocks" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Yearly brutto salary (without bonus and stocks) one year ago. Only answer if staying in same country" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Yearly bonus one year ago. Only answer if staying in same country" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Yearly stocks one year ago. Only answer if staying in same country" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Number of vacation days" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Number of home office days per month" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Main language at work" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Company name" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Company size" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Company type" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Ð¡ontract duration" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="Company business sector" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+            <Field name="0" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\T Salary Survey EU 2019.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="174" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>IT Salary Survey EU  2020.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Timestamp" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Age" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Gender" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="City" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Position" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Total years of experience" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Years of experience in Germany" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Seniority level" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Your main technology / programming language" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Other technologies/programming languages you use often" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Yearly brutto salary (without bonus and stocks) in EUR" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Yearly bonus + stocks in EUR" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Annual brutto salary (without bonus and stocks) one year ago. Only answer if staying in the same country" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Annual bonus+stocks one year ago. Only answer if staying in same country" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Number of vacation days" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Employment status" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Ð¡ontract duration" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Main language at work" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Company size" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Company type" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Have you lost your job due to the coronavirus outbreak?" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Have you been forced to have a shorter working week (Kurzarbeit)? If yes, how many hours per week" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+            <Field name="Have you received additional monetary support from your employer due to Work From Home? If yes, how much in 2020 in EUR" size="254" source="File: C:\Users\admin\Desktop\IT Salary Survey\orignol_datasets\IT Salary Survey EU  2020.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="174" y="258" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>IT Salary Analysis</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="84485606-e25c-4580-b112-71373c18784c" />
+      <Telemetry>
+        <PreviousWorkflowId value="60f71d08-d28c-491c-aff6-1b0a063f0baa" />
+        <OriginWorkflowId value="84485606-e25c-4580-b112-71373c18784c" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
