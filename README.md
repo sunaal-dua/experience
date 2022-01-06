@@ -1,6 +1,6 @@
 ### Greetings!
 #### In this repository you will find all my Machine Learning, NLP and Computer Vision workbooks. The table below summarizes what you can expect from these projects but before that a little something about me:<br>
-"<i>Python developer with years of experience in programming. Currently active as an Analytics Consultant and Machine Learning Engineer who has worked across varied problem statements in varied domains. With a good analytical aptitude, I comprehensively work through the minute details. I embrace the in-depth working of the algorithms I am using and never hesitate to work out the math when required.<br>I aim for professional versatility with a great zeal and possess good communication and social skills with a penchant for presenting; written or verbal"</i><br>
+"<i>Python developer with years of experience in programming. Currently active as a BI Consultant and Machine Learning practitioner who has worked across varied problem statements in varied domains. With a good analytical aptitude, I comprehensively work through the minute details. I embrace the in-depth working of the algorithms I am using and never hesitate to work out the math when required. I aim for professional versatility with a great zeal and possess good communication and social skills with a penchant for presenting; written or verbal"</i><br>
 <table style="width:100%">
   <tr>
     <td><b>Machine Learning</b></td>
