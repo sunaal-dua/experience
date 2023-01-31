@@ -1,5 +1,5 @@
 ### Greetings!
-#### In this repository you will find all my Machine Learning, NLP and Computer Vision workbooks. The table below summarizes what you will find inside<br><br>
+#### This repository contains all the Machine Learning, NLP and Computer Vision projects that I have worked on with detailed "layman" explanation of what the problem statement was, what I have done and why I have done it that way. The table below summarizes what you will find inside:<br><br>
 
 | - | - | 
 | --------------- | --------------- | 
