@@ -1,5 +1,11 @@
 ### Greetings!
 #### In this repository you will find all my Machine Learning, NLP and Computer Vision workbooks. The table below summarizes what you will find inside<br>
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 </table>
   <tr>
     <td><b>Machine Learning</b></td>
