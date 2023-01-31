@@ -1,5 +1,6 @@
 ### Greetings!
 #### In this repository you will find all my Machine Learning, NLP and Computer Vision workbooks. The table below summarizes what you will find inside<br>
+</table>
   <tr>
     <td><b>Machine Learning</b></td>
     <td><b>Linear Regression, Logistic Regression, L1 & L2 Regularisation, Svm, K-nearest neighbours, Tree Algoritmns,  Ensemble Methods and its variants</b> - RandomForest, GBM, AdaBoosting, CatBoost <br><b>Clustering Analysis</b> - Agglomerative and Hierarchical clustering</td>
