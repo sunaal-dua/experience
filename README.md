@@ -1,7 +1,5 @@
 ### Greetings!
-#### In this repository you will find all my Machine Learning, NLP and Computer Vision workbooks. The table below summarizes what you can expect from these projects but before that a little something about me:<br>
-"<i>Python developer with years of experience in programming. Currently active as a BI Consultant and Machine Learning practitioner who has worked across varied problem statements in varied domains. With a good analytical aptitude, I comprehensively work through the minute details. I embrace the in-depth working of the algorithms I am using and never hesitate to work out the math when required. I aim for professional versatility with a great zeal and possess good communication and social skills with a penchant for presenting; written or verbal"</i><br>
-<table style="width:100%">
+#### In this repository you will find all my Machine Learning, NLP and Computer Vision workbooks. The table below summarizes what you will find inside<br>
   <tr>
     <td><b>Machine Learning</b></td>
     <td><b>Linear Regression, Logistic Regression, L1 & L2 Regularisation, Svm, K-nearest neighbours, Tree Algoritmns,  Ensemble Methods and its variants</b> - RandomForest, GBM, AdaBoosting, CatBoost <br><b>Clustering Analysis</b> - Agglomerative and Hierarchical clustering</td>
@@ -12,7 +10,7 @@
   </tr>
   <tr>
     <td><b>Data Analysis and Visualization</b></td>
-    <td><b>Tableau, Univariate and Bivariate analytical plots, Geoplotting and visualization</b> – Folium webmaps, choropleth maps</td>
+    <td><b>Univariate and Bivariate analytical plots, Geoplotting and visualization</b> – Folium webmaps, choropleth maps</td>
   </tr>
   <tr>
     <td><b>Feature Engineering and Data Munging</b></td>
@@ -32,12 +30,8 @@
     <td>Applied experience in text cleaning and pre-processing; <b>BagOfWords, Tf-Idf</b>, creating word embeddings with <b>CBOW, SkipGram and GloVe models.</b> Adept at training <b>LSTMs, Bi-LSTMs and GRUs</b><br><b>Working knowledge of Encoder-Decoder Architecture, Attention Mechanism and its variants like Transformers and BERT</b></td>
   </tr>
   <tr>
-    <td><b>Database Technologies</b></td>
-    <td><b>Microsoft SQL Server, Eloquent</b> (Mysql, MongoDB)<br>Database Design and Normalization</td>
-  </tr>
-  <tr>
     <td><b>Languages and Tools</b></td>
-    <td>Python, Tensorflow, Keras, Matplotlib, Seaborn, Pandas, Numpy, Scikit-Learn, NLTK, Dialogflow, Laravel, Javascript, Ajax</td>
+    <td>Python, Tensorflow, Keras, Matplotlib, Seaborn, Pandas, Numpy, Scikit-Learn, NLTK, Dialogflow</td>
   </tr>
 </table>
 
