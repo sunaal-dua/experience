@@ -1,7 +1,7 @@
 ### Greetings!
 #### In this repository you will find all my Machine Learning, NLP and Computer Vision workbooks. The table below summarizes what you will find inside<br><br>
 
-| Column 1 Header | Column 2 Header | 
+| - | - | 
 | --------------- | --------------- | 
 | <b>Machine Learning</b> | <b>Linear Regression, Logistic Regression, L1 & L2 Regularisation, Svm, K-nearest neighbours, Tree Algoritmns,  Ensemble Methods and its variants</b> - RandomForest, GBM, AdaBoosting, CatBoost <br><b>Clustering Analysis</b> - Agglomerative and Hierarchical clustering | 
 | <b>Statistical Analysis</b> | <b>Test for correlation, co-linearity & higher order interactions, Hypothesis testing, Z-test, T-test</b> – One sample, Two sample (dependent & independent tests), <b>ANOVA</b> – Between & Within group variability, F-ratio, Tukey’s HSD, <b>Chi-squared test</b> – Goodness of fit & test for independence, Outlier Analysis | 
